@@ -2,13 +2,13 @@
 
 ## About me 👦🏻
 
-My name is Le Dang Nguyen and I'm 26 years old. I live in Odesa, Ukraine. I have experience in Front-End Development (about 7 years) and WordPress Development (6+ years).
+I am an experienced Full Stack Developer with about 7 years of development. 
 
-My best skills are HTML, CSS (SCSS), Javascript (ES6, Vue.js) and PHP. I have worked with most of the popular plugins for WordPress, including Advanced Custom Fields, Carbon Fields and WooCommerce.
+I have solid skills with HTML, CSS and JavaScript. I am well acquainted with different JavaScript libraries and frameworks such as Vue.js and Nuxt.js, and have good knowledge in PHP (Laravel) and Databases (MySQL, PostgreSQL). I have been working with most of the popular plugins for WordPress, including Advanced Custom Fields and WooCommerce. 
 
-I'm a fast learner and a responsible person with a great sense of humor. My main goal is learning new tech and obtaining new skills.
+I'm a responsible, outgoing and reliable person. My main goal is learning new tech and obtaining new skills.
 
-## I'm currently learning 📚
+## I'm currently learning (and using) 📚
 
 - Vue.js 3
 - Laravel 9
@@ -19,6 +19,8 @@ I'm a fast learner and a responsible person with a great sense of humor. My main
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
