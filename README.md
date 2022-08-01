@@ -4,7 +4,7 @@
 
 I am an experienced Full Stack Developer with about 7 years of development. 
 
-I have solid skills with HTML, CSS and JavaScript. I am well acquainted with different JavaScript libraries and frameworks such as Vue.js and Nuxt.js, and have good knowledge in PHP (Laravel) and Databases (MySQL, PostgreSQL). I have been working with most of the popular plugins for WordPress, including Advanced Custom Fields and WooCommerce. 
+I have solid skills in HTML, CSS and JavaScript. I am well acquainted with different JavaScript libraries and frameworks such as Vue.js and Nuxt.js, and have good knowledge in PHP (Laravel) and Databases (MySQL, PostgreSQL). I have been working with most of the popular plugins for WordPress, including Advanced Custom Fields and WooCommerce. 
 
 I'm a responsible, outgoing and reliable person. My main goal is learning new tech and obtaining new skills.
 
