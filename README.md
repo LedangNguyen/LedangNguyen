@@ -1,4 +1,4 @@
-[![LedangNguyen](https://github.com/LedangNguyen/LedangNguyen/blob/1faa125fd5116473cbf2a04b1505da0e3fc66faf/banner.png)](https://github.com/LedangNguyen)
+[![LedangNguyen](https://github.com/LedangNguyen/LedangNguyen/blob/ab86bf3615bcb9710b194555b2d7c204a935573d/banner.png)](https://github.com/LedangNguyen)
 
 ## About me 👦🏻
 
