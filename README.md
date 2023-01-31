@@ -2,11 +2,9 @@
 
 ## About me 👦🏻
 
-I am an experienced Full Stack Developer with about 7 years of development. 
+As a Full Stack Developer with over seven years of development experience, I am a highly skilled professional with expertise in WordPress, JavaScript, HTML, and CSS. I have extensive experience working with the Vue.js and Nuxt.js frameworks and the Laravel framework.
 
-I have solid skills in HTML, CSS and JavaScript. I am well acquainted with different JavaScript libraries and frameworks such as Vue.js and Nuxt.js, and have good knowledge in PHP (Laravel) and Databases (MySQL, PostgreSQL). I have been working with most of the popular plugins for WordPress, including Advanced Custom Fields and WooCommerce. 
-
-I'm a responsible, outgoing and reliable person. My main goal is learning new tech and obtaining new skills.
+I am a responsible, reliable, and outgoing individual who constantly seeks new opportunities to learn and grow. I am passionate about working on exciting and challenging projects where I can expand my skillset and collaborate with other professionals. I am confident in my abilities and eager to contribute to the success of any team I join.
 
 ## I'm currently learning (and using) 📚
 
