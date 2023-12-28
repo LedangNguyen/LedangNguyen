@@ -2,23 +2,22 @@
 
 ## About me 👦🏻
 
-As a Full Stack Developer with over seven years of development experience, I am a highly skilled professional with expertise in WordPress, JavaScript, HTML, and CSS. I have extensive experience working with the Vue.js and Nuxt.js frameworks and the Laravel framework.
+As a full-stack developer with over seven years of development experience, I am a highly skilled professional with expertise in WordPress, JavaScript, HTML, and CSS. I have extensive experience working with the Vue.js and Nuxt.js frameworks and the Laravel framework.
 
-I am a responsible, reliable, and outgoing individual who constantly seeks new opportunities to learn and grow. I am passionate about working on exciting and challenging projects where I can expand my skillset and collaborate with other professionals. I am confident in my abilities and eager to contribute to the success of any team I join.
+I am responsible, reliable, and outgoing, constantly seeking new opportunities to learn and grow. I am passionate about working on exciting and challenging projects where I can expand my skillset and collaborate with other professionals. I am confident in my abilities and eager to contribute to the success of any team I join.
 
-## I'm currently learning (and using) 📚
+## I'm currently using
 
+- WordPress
 - Vue.js 3
-- Laravel 9
 
 ## Tech Stack 🤖
 
 ### Backend
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,20 +25,20 @@ I am a responsible, reliable, and outgoing individual who constantly seeks new o
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![PostCSS](https://img.shields.io/badge/postcss-%23DD3735.svg?style=for-the-badge&logo=postcss&logoColor=white)
 
 ### DevOps
+![Platform.sh](https://img.shields.io/badge/platform.sh-%23ffffff.svg?style=for-the-badge&logo=platform.sh&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### Other
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646cff.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ## Socials 👨🏻‍💻 
